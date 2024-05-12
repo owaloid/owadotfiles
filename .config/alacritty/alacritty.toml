@@ -1,0 +1,26 @@
+[font]
+size = 6.5
+
+[font.bold]
+family = "NotoSansM Nerd Font,NotoSansM NF"
+style = "Bold"
+
+[font.bold_italic]
+family = "monospace"
+style = "Bold Italic"
+
+[font.italic]
+family = "monospace"
+style = "Italic"
+
+[font.normal]
+family = "monospace"
+style = "Regular"
+
+
+[colors.primary]
+background = "#2e0a15"
+foreground = "#ed835c"
+
+[window]
+opacity = 0.9
