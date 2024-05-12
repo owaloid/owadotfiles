@@ -7,5 +7,5 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias neofetch='neofetch --ascii ~/.dotfiles/owascii.txt'
+alias neofetch='neofetch --ascii ~/owascii.txt'
 PS1='[\u@\h \W]\$ '
